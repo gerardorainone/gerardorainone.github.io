@@ -320,6 +320,8 @@ h3 {
 		font-size:3.1vw;
 	}
 	
+	
+	
 	/*GALLERIA*/
 	
 	.top ul li{
@@ -328,6 +330,11 @@ h3 {
 	}
 	
 	/*VIDEO*/
+	
+	.videoframe{
+		
+		min-height:230px;		
+	}
 	
 	
 }
@@ -373,6 +380,8 @@ h3 {
 		font-size:8vw;
 		
 	}
+	
+
 
 	/*GALLERIA*/
 	
@@ -385,6 +394,12 @@ h3 {
 		height: 50%;
 	}
 
+	/*VIDEO*/
+	
+	.videoframe{
+		
+		min-height:180px;		
+	}
 	
 }
 
